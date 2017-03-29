@@ -1,8 +1,9 @@
-Pythonic Perambulations
------------------------
-This is the source of my [Pythonic Perambulations](http://jakevdp.github.io)
-blog. It is built using the [Pelican](http://blog.getpelican.com/)
-blogging platform.
+OBSOLETE source for Pythonic Perambulations
+-------------------------------------------
+
+This was the original source of my [Pythonic Perambulations](http://jakevdp.github.io)
+blog,built using the [Pelican](http://blog.getpelican.com/) blogging platform.
+See http://github.com/jakevdp/jakevdp.github.io-source/ for the current version
 
 Requirements
 ------------
